@@ -15,8 +15,8 @@ This repository contains the following files:
 
 
 # HIGHLIGHTS
-Benford's Law was introduced.
-The assumptions and scenarios when Benford's Law will be useful and when it will not be applicable were presented.
-Some applications of Benford's Law in machine learning were provided.
-Benford's Law and Machine Learning were both used to detect fake Twitter followers. Both methods led to the same conclusion.
+- Benford's Law was introduced.
+- The assumptions and scenarios when Benford's Law will be useful and when it will not be applicable were presented.
+- Some applications of Benford's Law in machine learning were provided.
+- Benford's Law and Machine Learning were both used to detect fake Twitter followers. Both methods led to the same conclusion.
 
