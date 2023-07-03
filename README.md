@@ -9,8 +9,6 @@ This repository contains the following files:
 
 `01_Application of Benford's Law in Machine Learning-Final.html`: html version of the main notebook for better readability.
 
-`02_Application of Benford's Law in Machine Learning.pdf`: presentation slides I used during our project presentation.
-
 `14_Census_2000_2010.csv` and `cresci2015.csv`: datasets used to demonstrate Benford's Law in Machine Learning.
 
 
